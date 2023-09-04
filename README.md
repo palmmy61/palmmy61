@@ -1,7 +1,5 @@
 ### Hi there 👋 i'm your friendly neighborhood monkey lady🙈
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on frontend pj.
 - 🌱 I’m currently learning Html
 - 🤔 I’m looking for help with everythingT____T
